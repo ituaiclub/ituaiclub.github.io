@@ -52,10 +52,10 @@ round-avatar: true
 social-network-links:
   email: "ituaistudentclub@gmail.com"
   twitter: ituaiclub
-  youtube: ituaistudentclub594
+#  youtube: ituaistudentclub594
 #  medium: yourname
 #  reddit: yourname
-  linkedin: company/itu-ai-student-club/mycompany
+#  linkedin: company/itu-ai-student-club/mycompany
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -76,7 +76,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
