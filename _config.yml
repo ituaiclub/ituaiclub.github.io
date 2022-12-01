@@ -51,10 +51,10 @@ round-avatar: true
 social-network-links:
   email: "ituaistudentclub@gmail.com"
   twitter: ituaiclub
-#  youtube: @ituaistudentclub594
+  youtube: ituaistudentclub594
 #  medium: yourname
 #  reddit: yourname
-  linkedin: company/itu-ai-student-club
+  linkedin: company/itu-ai-student-club/mycompany
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -87,6 +87,7 @@ share-links-active:
   facebook: true
   linkedin: true
   instagram: true
+  youtube: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
