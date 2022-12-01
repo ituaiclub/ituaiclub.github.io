@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Ready to spread the beauty
+subtitle: Ready to spread beauty
 ---
 
 ###We mostly are ITU AI & Data Engineering students who are trying to spread the beauty and power of AI among many students.
