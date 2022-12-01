@@ -50,16 +50,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   twitter: ituaiclub
-  youtube: channel/@ituaistudentclub594
+  youtube: @ituaistudentclub594
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: ituaiclub
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -87,7 +86,7 @@ share-links-active:
   twitter: true
   facebook: true
   linkedin: true
-  vk: false
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
