@@ -8,7 +8,9 @@ Cumartesi ve pazar günleri gerçekleşecek olan bu etkinlikte 25 Şubat Cumarte
 
 <aside>
 💡 1.lik Ödülü: 15000 Türk Lirası
+  
 2.lik Ödülü: 10000 Türk Lirası
+  
 3.lük Ödülü: 7000 Türk Lirası
 
 </aside>
